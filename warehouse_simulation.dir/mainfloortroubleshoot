@@ -1,9 +1,0 @@
-begin P_mainTS arriving
-	move into Q_mainTS_wait
-	move into Q_mainTS
-	use R_mainTS for e 5 min /*assume dont care if item can be found or not, after fix period of time, will give up, but a bit weird, in case instantly find lol*/
-	send to P_mainfinish
-end 
-
-begin P_mainfinish arriving
-
