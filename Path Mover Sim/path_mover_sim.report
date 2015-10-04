@@ -1,0 +1,261 @@
+*** AutoMod 12.6 ***
+Model path_mover_sim
+Statistics at Absolute Clock = 10:00:00:00.00, Relative Clock = 10:00:00:00.00
+CPU time: Absolute: 79.871 sec, Relative: 79.871 sec
+
+Statistics for Process System "path_mover_sim"
+
+Process Statistics
+Name                   Total   Cur  Average Capacity   Max   Min   Util    Av_Time    Av_Wait
+========================================================================================
+P_test                     0     0     0.00       --     0     0     --       0.00 
+
+Process Traffic Limit Statistics
+Name                   Total   Cur  Average Capacity   Max   Min   Util    Av_Time    Av_Wait
+========================================================================================
+P_test                     0     0     0.00 Infinite     0     0     --       0.00 
+
+Queue Statistics
+Name                   Total   Cur  Average Capacity   Max   Min   Util    Av_Time    Av_Wait
+========================================================================================
+Space                      0     0     0.00 Infinite     0     0     --       0.00 
+
+Random Number Streams
+Name                 Total 
+============================
+stream0              1
+
+Statistics for Path Mover System "path_mover_sim.Path_Mover"
+
+Guide Path Type Statistics
+Name                   Total   Cur  Average Capacity   Max   Min   Util    Av_Time    Av_Wait
+========================================================================================
+DefaultGuidePath           2     2     2.00 Infinite     2     0     --  864000.00 
+
+Guide Path Statistics
+Name                   Total   Cur  Average Capacity   Max   Min   Util    Av_Time    Av_Wait
+========================================================================================
+S1R0                       1     1     1.00 Infinite     1     0     --  864000.00 
+S1R1                       0     0     0.00 Infinite     0     0     --       0.00 
+S1R2                       1     1     1.00 Infinite     1     0     --  864000.00 
+S1R3                       0     0     0.00 Infinite     0     0     --       0.00 
+S1R4                       0     0     0.00 Infinite     0     0     --       0.00 
+S1R5                       0     0     0.00 Infinite     0     0     --       0.00 
+S1R6                       0     0     0.00 Infinite     0     0     --       0.00 
+S1R7                       0     0     0.00 Infinite     0     0     --       0.00 
+S1R8                       0     0     0.00 Infinite     0     0     --       0.00 
+S1R9                       0     0     0.00 Infinite     0     0     --       0.00 
+S1R10                      0     0     0.00 Infinite     0     0     --       0.00 
+S1R11                      0     0     0.00 Infinite     0     0     --       0.00 
+S1R12                      0     0     0.00 Infinite     0     0     --       0.00 
+S1R13                      0     0     0.00 Infinite     0     0     --       0.00 
+S1R14                      0     0     0.00 Infinite     0     0     --       0.00 
+S1R15                      0     0     0.00 Infinite     0     0     --       0.00 
+S1R16                      0     0     0.00 Infinite     0     0     --       0.00 
+S1R17                      0     0     0.00 Infinite     0     0     --       0.00 
+S1R18                      0     0     0.00 Infinite     0     0     --       0.00 
+S1R19                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V0                       0     0     0.00 Infinite     0     0     --       0.00 
+S1V1                       0     0     0.00 Infinite     0     0     --       0.00 
+S1V2                       0     0     0.00 Infinite     0     0     --       0.00 
+S1V3                       0     0     0.00 Infinite     0     0     --       0.00 
+S1V4                       0     0     0.00 Infinite     0     0     --       0.00 
+S1V5                       0     0     0.00 Infinite     0     0     --       0.00 
+S1V6                       0     0     0.00 Infinite     0     0     --       0.00 
+S1V7                       0     0     0.00 Infinite     0     0     --       0.00 
+S1V8                       0     0     0.00 Infinite     0     0     --       0.00 
+S1V9                       0     0     0.00 Infinite     0     0     --       0.00 
+S1V10                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V11                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V12                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V13                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V14                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V15                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V16                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V17                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V18                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V19                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V20                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V21                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V22                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V23                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V24                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V25                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V26                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V27                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V28                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V29                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V30                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V31                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V32                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V33                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V34                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V35                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V36                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V37                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V50                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V51                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V52                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V53                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V54                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V55                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V56                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V57                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V58                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V59                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V60                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V61                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V62                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V63                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V64                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V65                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V66                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V67                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V68                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V69                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V70                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V71                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V72                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V73                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V74                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V75                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V76                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V77                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V78                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V79                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V80                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V81                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V82                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V83                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V84                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V85                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V86                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V87                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V88                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V89                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V90                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V91                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V92                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V93                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V94                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V95                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V96                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V97                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V98                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V99                      0     0     0.00 Infinite     0     0     --       0.00 
+S1V100                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V101                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V102                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V103                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V104                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V105                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V106                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V107                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V108                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V109                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V110                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V111                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V112                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V113                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V114                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V115                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V116                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V117                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V118                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V119                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V120                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V121                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V122                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V123                     0     0     0.00 Infinite     0     0     --       0.00 
+S1V124                     0     0     0.00 Infinite     0     0     --       0.00 
+
+Control Point Type Statistics
+Name                   Total   Cur  Average Capacity   Max   Min   Util    Av_Time    Av_Wait
+========================================================================================
+DefaultControlPoint        2     2     2.00 Infinite     2     0     --  864000.00 
+
+Control Point Statistics
+Name                   Total   Cur  Average Capacity   Max   Min   Util    Av_Time    Av_Wait
+========================================================================================
+S1_0_1                     1     1     1.00 Infinite     1     0     --  864000.00 
+S1_0_2                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_3                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_4                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_5                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_6                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_7                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_8                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_9                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_10                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_11                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_12                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_13                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_14                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_15                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_16                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_17                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_18                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_19                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_0_20                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_1                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_2                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_3                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_4                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_5                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_6                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_7                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_8                     0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_9                     1     1     1.00 Infinite     1     0     --  864000.00 
+S1_2_10                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_11                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_12                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_13                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_14                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_15                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_16                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_17                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_18                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_19                    0     0     0.00 Infinite     0     0     --       0.00 
+S1_2_20                    0     0     0.00 Infinite     0     0     --       0.00 
+
+Vehicle Statistics
+       Delivering              Retrieving            Going To Park       Parking
+ Percent        Average  Percent        Average  Percent        Average  Percent
+Of Total  Trips  Time/  Of Total  Trips  Time/  Of Total  Trips  Time/  Of Total
+  Time     Made  Trip     Time     Made  Trip     Time     Made  Trip     Time
+================================================================================
+DefVehicle:
+   0.000      0    0.00    0.000      0    0.00    0.000      0    0.00    1.000
+All DefVehicle:
+   0.000      0    0.00    0.000      0    0.00    0.000      0    0.00    1.000
+Picker:
+   0.000      0    0.00    0.000      0    0.00    0.000      0    0.00    1.000
+All Picker:
+   0.000      0    0.00    0.000      0    0.00    0.000      0    0.00    1.000
+
+The Average Capacity Lost Due To Congestion is 0.0 Percent
+Of Total Capacity Which is 0.0 Vehicles
+
+Vehicle Segment Statistics
+Vehicle                Total      Cur    Average Capacity      Max      Min
+==========================================================================================================
+DefVehicle:
+DefVehicle(1)              1        1       1.00 Infinite        1        0
+Picker:
+Picker(1)                  1        1       1.00 Infinite        1        0
+
+Current Status Of Vehicles
+                                        Time In  Current              Destination          Load On or
+Vehicle              Status             Cur Status Location             Location             Claimed By Veh
+==========================================================================================================
+DefVehicle(1)        Idle              864000.00 S1_0_1               S1_0_1               Empty          
+Picker(1)            Idle              864000.00 S1_2_9               S1_2_9               Empty          
+
+Current Status Summary
+              Average Time   Maximum Time   Minimum Time
+Type         In Cur Status   In Cur Status  In Cur Status
+========================================================
+   DefVehicle    864000.00      864000.00      864000.00
+       Picker    864000.00      864000.00      864000.00
+
+

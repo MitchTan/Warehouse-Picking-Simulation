@@ -1,0 +1,9 @@
+Processing build commands for the model path_mover_sim...
+path_mover_sim~model.c
+path_mover_sim~init1.c
+logic.c
+Linking path_mover_sim.dll...
+   Creating library path_mover_sim.lib and object path_mover_sim.exp
+Generating path_mover_sim.exe...
+        1 file(s) copied.
+
